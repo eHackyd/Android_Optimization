@@ -3,4 +3,4 @@
 
 **java+Android内存泄露.docx**：java和Android的内存泄露体系
 
-**Android数据结构.docx**：Android特有的数据结构(SparseArray等)
+**Android数据结构.docx**：Android特有的数据结构(SparseArray+ArrayMap等)
