@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9934639bcb9d15232e53eb5b07c4ec441b5c75a14835d929da5f1cd8d413c84
-size 283
+# Android性能优化学习整理的文档
+**Android优化.docx**：Android性能优化整体框架，以及一些项目实践
+
+**java+Android内存泄露.docx**：java和Android的内存泄露体系
+
+**Android数据结构.docx**：Android特有的数据结构(SparseArray等)
